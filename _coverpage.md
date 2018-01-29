@@ -1,4 +1,4 @@
-<img src="./media/webpack.png" width="678" alt="">
+<img src="./media/webpack.png" width="520" alt="">
 
 # webpack笔记
 
